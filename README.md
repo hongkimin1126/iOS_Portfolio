@@ -12,6 +12,6 @@
 ### 5. 처음 앱스토업 배포앱 👉🏻 차량소모품 관리앱: CarBoom
 ### 6. RxSwift 기초 학습.
 
+![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/1.png?raw=true)
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true)
-![ex_screenshot]https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true)
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/카붐사진/1.png?raw=true)
