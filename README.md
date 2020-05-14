@@ -3,7 +3,7 @@
 
 ## 홍기민의 포트폴리오
 
-학력: 한국산업기술대학교 메카트로닉스공학과(2013.03 ~ 2020.03)수료
+학력: 한국산업기술대학교 메카트로닉스공학과(2013.03 ~ 2020.03)
 
 ### 1. 6개월 과정 패스트캠퍼스 [iOS School(2019.11.01 ~ 2020.04.28)](https://github.com/hongkimin1126/iOS-FastCampus)을 수료하여 기본적인 Swift 문법학습.
 ### 2. 첫번째 해커톤 분한결제앱: [지금줄게](https://github.com/hongkimin1126/iOS-AppProject_GoDutch)
