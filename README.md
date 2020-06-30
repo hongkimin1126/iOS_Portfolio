@@ -24,7 +24,7 @@ P.S- 공유 플랫폼에 대한 많은 관심을 가지고 있습니다. 저의 
 ### 3. 두번째 해커톤 [뮤직플레이앱](https://github.com/hongkimin1126/iOS-AppProject_MusicPlayer)
 ### 4. 메모장 App: [MemoApp](https://github.com/hongkimin1126/iOS_MemoApp_Study)
 ### 5. WeatherForecast(일기예보 App): [WeatherForecast](https://github.com/hongkimin1126/iOS-AppStore_WeatherForecast)
-### 6. 파이널프로젝트 P2P 기반의 데이팅앱: [아만다](https://github.com/hongkimin1126/iOS-AppProject_Amanda)
+### 6. 파이널프로젝트 P2P 기반의 데이팅앱: [아만다](https://github.com/hongkimin1126/iOS-AppProject_Amanda/blob/master/README.md)
 ### 7. 처음 앱스토업 배포앱 👉🏻 차량소모품 관리앱: [CarBoom](https://github.com/hongkimin1126/iOS-AppStore_CarBoom)
 ### 8. [RxSwift](https://github.com/hongkimin1126/RxSwift) 기초 학습.
 <img src="https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/1.png?raw=true" width="375" height="812">
