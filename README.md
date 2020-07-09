@@ -22,7 +22,7 @@
 ### 1. 6개월 과정 패스트캠퍼스 [iOS School(2019.11.01 ~ 2020.04.28)](https://github.com/hongkimin1126/iOS-FastCampus)을 수료하여 기본적인 Swift 문법학습.
 ### 2. 첫번째 해커톤 분한결제앱: [지금줄게](https://github.com/hongkimin1126/iOS-AppProject_GoDutch)
 ### 3. 두번째 해커톤 [뮤직플레이앱](https://github.com/hongkimin1126/iOS-AppProject_MusicPlayer)
-### 4. 메모장 App: [MemoApp](https://github.com/hongkimin1126/iOS_MemoApp_Study)
+### 4. 메모장 App: [MemoApp](https://github.com/hongkimin1126/iOS_MemoApp)
 ### 5. WeatherForecast(일기예보 App): [WeatherForecast](https://github.com/hongkimin1126/iOS-AppStore_WeatherForecast)
 ### 6. 파이널프로젝트 P2P 기반의 데이팅앱: [아만다](https://github.com/hongkimin1126/iOS-AppProject_Amanda/blob/master/README.md)
 ### 7. 처음 앱스토업 배포앱 👉🏻 차량소모품 관리앱: [CarBoom](https://github.com/hongkimin1126/iOS-AppStore_CarBoom)
